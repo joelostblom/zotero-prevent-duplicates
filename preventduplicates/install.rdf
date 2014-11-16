@@ -5,7 +5,7 @@
 	<Description about="urn:mozilla:install-manifest">
 		<em:id>prevent-duplicates@chrisjr.org</em:id>
 		<em:name>Prevent Duplicates Plugin for Zotero</em:name>
-		<em:version>0.0.1</em:version>
+		<em:version>0.0.1bw</em:version>
 		<em:description>A plugin to prevent duplicates in Zotero</em:description>
 		<em:creator>Chris Johnson-Roberson</em:creator>
 		<em:updateURL>https://www.zotero.org/download/plugins.rdf</em:updateURL>
